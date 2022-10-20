@@ -1,0 +1,75 @@
+Pumpkin Japanese/Kent ==> Banana Cavendish #SUP: 7609 #CONF: 0.6480483637797345
+Orange navel ==> Banana Cavendish #SUP: 6260 #CONF: 0.6391373801916933
+Garlic loose ==> Banana Cavendish #SUP: 7475 #CONF: 0.6575250836120401
+Carrots  ==> Banana Cavendish #SUP: 7036 #CONF: 0.6650085275724844
+Eggplant ==> Banana Cavendish #SUP: 7782 #CONF: 0.6626831148804935
+Watermelon seedless ==> Banana Cavendish #SUP: 12758 #CONF: 0.585358206615457
+Potato Desiree ==> Banana Cavendish #SUP: 5099 #CONF: 0.6822906452245538
+Beans green ==> Banana Cavendish #SUP: 7209 #CONF: 0.659592176446109
+Potato sweet Gold ==> Banana Cavendish #SUP: 8701 #CONF: 0.6452131938857603
+Zucchini green ==> Banana Cavendish #SUP: 8586 #CONF: 0.6523410202655485
+Tomatoes Roma ==> Banana Cavendish #SUP: 5412 #CONF: 0.6400591278640059
+Cucumber Lebanese ==> Banana Cavendish #SUP: 10511 #CONF: 0.6358101037008848
+Apples Pink Lady ==> Banana Cavendish #SUP: 8106 #CONF: 0.6401431038736738
+Broccoli ==> Banana Cavendish #SUP: 9814 #CONF: 0.642551457102099
+Apples Granny Smith ==> Banana Cavendish #SUP: 5060 #CONF: 0.6756916996047431
+Grapes black ==> Banana Cavendish #SUP: 5684 #CONF: 0.6217452498240675
+Cucumber continental ==> Banana Cavendish #SUP: 8236 #CONF: 0.6582078678970374
+Mushroom Cup ==> Banana Cavendish #SUP: 6398 #CONF: 0.6752110034385745
+Potato brushed ==> Banana Cavendish #SUP: 6638 #CONF: 0.6708345887315457
+Apples Royal Gala ==> Banana Cavendish #SUP: 5361 #CONF: 0.6606976310389853
+Capsicum red ==> Banana Cavendish #SUP: 11414 #CONF: 0.6209917644997371
+Potato washed ==> Banana Cavendish #SUP: 5576 #CONF: 0.6698350071736011
+Onion brown ==> Banana Cavendish #SUP: 6999 #CONF: 0.6649521360194314
+Nectarine White ==> Banana Cavendish #SUP: 5687 #CONF: 0.5941621241427818
+Capsicum green ==> Banana Cavendish #SUP: 5494 #CONF: 0.6698216235893703
+Ginger ==> Banana Cavendish #SUP: 6265 #CONF: 0.6614525139664804
+Field Tomatoes ==> Banana Cavendish #SUP: 20297 #CONF: 0.5670296102872345
+Carrots 1kg ==> Banana Cavendish #SUP: 6836 #CONF: 0.6568168519602107
+Lettuce Iceberg ==> Banana Cavendish #SUP: 8988 #CONF: 0.6466399643969737
+Eggs 700g ==> Banana Cavendish #SUP: 6233 #CONF: 0.6598748596181614
+Onion spring ==> Banana Cavendish #SUP: 9168 #CONF: 0.6423429319371727
+Coriander ==> Banana Cavendish #SUP: 5891 #CONF: 0.6632150738414531
+Lemon ==> Banana Cavendish #SUP: 6277 #CONF: 0.6627369762625458
+Mandarin Imperial ==> Banana Cavendish #SUP: 10243 #CONF: 0.5329493312506102
+Pear Packham ==> Banana Cavendish #SUP: 7482 #CONF: 0.6415396952686447
+Pumpkin Japanese/Kent Banana Cavendish ==> Banana Cavendish #SUP: 6479 #CONF: 0.6681586664608736
+Garlic loose Banana Cavendish ==> Banana Cavendish #SUP: 6435 #CONF: 0.6682206682206682
+Carrots  Banana Cavendish ==> Banana Cavendish #SUP: 6151 #CONF: 0.6769630954316371
+Eggplant Banana Cavendish ==> Banana Cavendish #SUP: 6660 #CONF: 0.6764264264264265
+Beans green Banana Cavendish ==> Banana Cavendish #SUP: 6270 #CONF: 0.6727272727272727
+Potato sweet Gold Banana Cavendish ==> Banana Cavendish #SUP: 7433 #CONF: 0.6658146105206512
+Zucchini green Banana Cavendish ==> Banana Cavendish #SUP: 7399 #CONF: 0.6673874847952426
+Zucchini green Field Tomatoes ==> Banana Cavendish #SUP: 5127 #CONF: 0.713867758923347
+Cucumber Lebanese Banana Cavendish ==> Banana Cavendish #SUP: 8942 #CONF: 0.6539923954372624
+Cucumber Lebanese Field Tomatoes ==> Banana Cavendish #SUP: 6152 #CONF: 0.7064369310793238
+Banana Cavendish Watermelon seedless ==> Banana Cavendish #SUP: 10022 #CONF: 0.6254240670524845
+Banana Cavendish Orange navel ==> Banana Cavendish #SUP: 5379 #CONF: 0.6540249116936233
+Banana Cavendish Carrots 1kg ==> Banana Cavendish #SUP: 5931 #CONF: 0.6750969482380712
+Banana Cavendish Eggs 700g ==> Banana Cavendish #SUP: 5326 #CONF: 0.6733007885843034
+Banana Cavendish Coriander ==> Banana Cavendish #SUP: 5021 #CONF: 0.6825333598884684
+Banana Cavendish Mandarin Imperial ==> Banana Cavendish #SUP: 7891 #CONF: 0.5804080598149791
+Banana Cavendish Pear Packham ==> Banana Cavendish #SUP: 6517 #CONF: 0.6593524627896271
+Apples Pink Lady Banana Cavendish ==> Banana Cavendish #SUP: 7093 #CONF: 0.6489496686874383
+Broccoli Banana Cavendish ==> Banana Cavendish #SUP: 8424 #CONF: 0.6595441595441596
+Broccoli Field Tomatoes ==> Banana Cavendish #SUP: 5859 #CONF: 0.714968424645844
+Cucumber continental Banana Cavendish ==> Banana Cavendish #SUP: 7046 #CONF: 0.6745671302866875
+Cucumber continental Field Tomatoes ==> Banana Cavendish #SUP: 5023 #CONF: 0.7202866812661756
+Mushroom Cup Banana Cavendish ==> Banana Cavendish #SUP: 5595 #CONF: 0.6888293118856121
+Potato brushed Banana Cavendish ==> Banana Cavendish #SUP: 5754 #CONF: 0.6842196732707682
+Capsicum red Banana Cavendish ==> Banana Cavendish #SUP: 9529 #CONF: 0.6420400881519572
+Capsicum red Field Tomatoes ==> Banana Cavendish #SUP: 6352 #CONF: 0.7067065491183879
+Onion brown Banana Cavendish ==> Banana Cavendish #SUP: 6024 #CONF: 0.6801128818061088
+Ginger Banana Cavendish ==> Banana Cavendish #SUP: 5362 #CONF: 0.6816486385676986
+Field Tomatoes Watermelon seedless ==> Banana Cavendish #SUP: 6131 #CONF: 0.7016799869515576
+Field Tomatoes Banana Cavendish ==> Banana Cavendish #SUP: 15941 #CONF: 0.6048554043033687
+Field Tomatoes Mandarin Imperial ==> Banana Cavendish #SUP: 5090 #CONF: 0.6585461689587426
+Lettuce Iceberg Banana Cavendish ==> Banana Cavendish #SUP: 7601 #CONF: 0.6654387580581502
+Lettuce Iceberg Field Tomatoes ==> Banana Cavendish #SUP: 5133 #CONF: 0.7161503993765829
+Onion spring Field Tomatoes ==> Banana Cavendish #SUP: 5341 #CONF: 0.7163452536978094
+Onion spring Banana Cavendish ==> Banana Cavendish #SUP: 7658 #CONF: 0.6634891616610081
+Lemon Banana Cavendish ==> Banana Cavendish #SUP: 5384 #CONF: 0.6853640416047548
+Cucumber Lebanese Field Tomatoes Banana Cavendish ==> Banana Cavendish #SUP: 5289 #CONF: 0.7082624314615239
+Broccoli Field Tomatoes Banana Cavendish ==> Banana Cavendish #SUP: 5089 #CONF: 0.7156612301041462
+Capsicum red Field Tomatoes Banana Cavendish ==> Banana Cavendish #SUP: 5443 #CONF: 0.7084328495315083
+Field Tomatoes Banana Cavendish Watermelon seedless ==> Banana Cavendish #SUP: 5177 #CONF: 0.6973150473247054

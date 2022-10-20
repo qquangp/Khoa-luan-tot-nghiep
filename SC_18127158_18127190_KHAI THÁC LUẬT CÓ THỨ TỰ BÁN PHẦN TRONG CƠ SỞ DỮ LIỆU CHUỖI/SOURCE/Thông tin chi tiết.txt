@@ -1,0 +1,18 @@
+Cách thực thi mã nguồn:
++ Thực thi chính trên hai tập tin MainTestPOERM.py và MainTestPOERM.py với 5 tham số đầu vào minSupport , minConfidence, XSpan, YSpan và XYSpan do người dùng định nghĩa.
+  Tham số inputFile : đường dẫn tập tin input
+  Tham số outputFile : đường dẫn tập tin output
++ Tập tin MainTestResultConverter.py : dùng để chuyển đổi kết quả của tập tin đầu ra (áp dụng cho tập dữ liệu fruithut.txt)
+  Các tham số: 
+	inputDB : đường dẫn tập tin dữ liệu đầu vào
+	inputResult : đường dẫn tập tin kết quả đầu ra từ hai tập tin MainTestPOERM.py và MainTestPOERM.py
+	outputFile : đường dẫn tập tin kết quả đầu ra sau khi đã chuyển đổi
+
+Môi trường thực thi : Visual Studio Code
+Ngôn ngữ lập trình : Python (3.10.4)
+
++ Tập tin POERM.ipynb : dùng để so sánh kết quả và khảo sát các tham số
+  Môi trường thực thi : Google Colab.
+
+
+  

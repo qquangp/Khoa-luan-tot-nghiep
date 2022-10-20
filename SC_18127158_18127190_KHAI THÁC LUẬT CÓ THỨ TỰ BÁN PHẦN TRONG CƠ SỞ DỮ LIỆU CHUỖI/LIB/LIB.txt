@@ -1,0 +1,2 @@
+Các thư viện được sử dụng:
+Numpy phiên bản: 1.22.4

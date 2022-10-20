@@ -1,0 +1,4 @@
+Thư mục:
++ Normal và Optimize chứa các tập tin kết quả thực thi của hai phiên bản thuật toán POERM trên hai bộ dữ liệu OnlineRetail và Fruithut -> dùng để khảo sát ảnh hưởng của các tham số
++ Output1 : Kết quả thực thi thuật toán POERM
++ Output2 : Kết quả thực thi thuật toán POERM đã cải tiến
